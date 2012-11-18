@@ -1,0 +1,14 @@
+{
+  "name": "upgrade",
+  "version": "0.0.1-5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "license": "BSD",
+  "subdomain": "jeansebtr.upgrade",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
